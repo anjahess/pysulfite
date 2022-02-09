@@ -40,6 +40,7 @@ These sequences are fully made up and serve as an example only. Order: fwd, rev 
 # Step 4: Run the script 
 
 In your terminal:
+    
     python3 pysulfite/find_where_qMSP_primer_binds.py
     
 In your IDE: click run
